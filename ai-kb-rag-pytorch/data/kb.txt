@@ -1,0 +1,14 @@
+# Refunds
+Q: How to request a refund?
+A: Email support@acme.com with your order ID and reason. Refunds are processed in 5–7 business days.
+
+# Support Hours
+Q: What are support hours?
+A: 9am–6pm IST, Mon–Fri. Urgent outages are monitored 24/7.
+
+# Plan Upgrades
+Q: Can I upgrade my plan mid-cycle?
+A: Yes. The new plan is prorated and becomes active immediately.
+
+# Security
+Our data is stored in ISO 27001 certified facilities. Backups occur daily and are retained for 30 days.
